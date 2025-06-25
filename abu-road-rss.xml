@@ -1,0 +1,39 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+  <channel>
+    <title>Abu Road Station Train Schedule</title>
+    <link>https://yourserver.com/abu-road-rss.xml</link>
+    <description>Upcoming train timings at Abu Road (nearest to Ambaji)</description>
+
+    <item>
+      <title>Train 20959 Valsad–Vadnagar | Dep ABR: 04:10</title>
+      <link>https://indiarailinfo.com/train/20959</link>
+      <pubDate>Wed, 25 Jun 2025 12:31:25 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Train 20901 MumbaiC–Gandhinagar | Dep ABR: 05:00</title>
+      <link>https://indiarailinfo.com/train/20901</link>
+      <pubDate>Wed, 25 Jun 2025 13:31:25 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Train 12917 Ahmedabad–Haridwar | Dep ABR: 06:45</title>
+      <link>https://indiarailinfo.com/train/12917</link>
+      <pubDate>Wed, 25 Jun 2025 14:31:25 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Train 12990 Ajmer–Dadar SF | Dep ABR: 08:20</title>
+      <link>https://indiarailinfo.com/train/12990</link>
+      <pubDate>Wed, 25 Jun 2025 15:31:25 GMT</pubDate>
+    </item>
+
+    <item>
+      <title>Train 14701 Amrapur Aravali Express | Dep ABR: 10:30</title>
+      <link>https://indiarailinfo.com/train/14701</link>
+      <pubDate>Wed, 25 Jun 2025 16:31:25 GMT</pubDate>
+    </item>
+
+  </channel>
+</rss>
